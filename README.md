@@ -1,1 +1,2 @@
-# cogl ~ conway's game of life
+# cogl 
+conway's game of life
